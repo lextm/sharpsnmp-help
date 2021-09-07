@@ -1,0 +1,45 @@
+# TrapTypeMacro.Enterprise Property 
+ 
+
+Gets or sets the enterprise.
+
+**Namespace:**&nbsp;<a href="N_Lextm_SharpSnmpPro_Mib">Lextm.SharpSnmpPro.Mib</a><br />**Assembly:**&nbsp;SharpSnmpPro.Mib (in SharpSnmpPro.Mib.dll) Version: 2.1.2
+
+## Syntax
+
+**C#**<br />
+``` C#
+public IEntity Enterprise { get; set; }
+```
+
+**VB**<br />
+``` VB
+Public Property Enterprise As IEntity
+	Get
+	Set
+```
+
+**C++**<br />
+``` C++
+public:
+property IEntity^ Enterprise {
+	IEntity^ get ();
+	void set (IEntity^ value);
+}
+```
+
+**F#**<br />
+``` F#
+member Enterprise : IEntity with get, set
+
+```
+
+
+#### Property Value
+Type: <a href="T_Lextm_SharpSnmpPro_Mib_IEntity">IEntity</a><br />The enterprise.
+
+## See Also
+
+
+#### Reference
+<a href="T_Lextm_SharpSnmpPro_Mib_TrapTypeMacro">TrapTypeMacro Class</a><br /><a href="N_Lextm_SharpSnmpPro_Mib">Lextm.SharpSnmpPro.Mib Namespace</a><br />

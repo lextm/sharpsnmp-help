@@ -1,0 +1,15 @@
+# SetRequestMessage Properties
+ 
+
+The <a href="T_Lextm_SharpSnmpLib_Messaging_SetRequestMessage">SetRequestMessage</a> type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Header">Header</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Parameters">Parameters</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Privacy">Privacy</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Scope">Scope</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Version">Version</a></td><td /></tr></table>&nbsp;
+<a href="#setrequestmessage-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Lextm_SharpSnmpLib_Messaging_SetRequestMessage">SetRequestMessage Class</a><br /><a href="N_Lextm_SharpSnmpLib_Messaging">Lextm.SharpSnmpLib.Messaging Namespace</a><br />

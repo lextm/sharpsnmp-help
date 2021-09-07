@@ -1,0 +1,15 @@
+# NotificationGroupMacro Properties
+ 
+
+The <a href="T_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro">NotificationGroupMacro</a> type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_CharPositionInLine">CharPositionInLine</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Description">Description</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Line">Line</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Module">Module</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_ModuleName">ModuleName</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Name">Name</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Notifications">Notifications</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_ObjectIdentifier">ObjectIdentifier</a></td><td> **Obsolete. **</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Parent">Parent</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Reference">Reference</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Status">Status</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Value">Value</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Values">Values</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro_Verified">Verified</a></td><td /></tr></table>&nbsp;
+<a href="#notificationgroupmacro-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Lextm_SharpSnmpPro_Mib_NotificationGroupMacro">NotificationGroupMacro Class</a><br /><a href="N_Lextm_SharpSnmpPro_Mib">Lextm.SharpSnmpPro.Mib Namespace</a><br />

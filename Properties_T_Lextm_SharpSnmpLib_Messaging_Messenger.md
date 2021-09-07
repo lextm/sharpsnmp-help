@@ -1,0 +1,15 @@
+# Messenger Properties
+ 
+
+The <a href="T_Lextm_SharpSnmpLib_Messaging_Messenger">Messenger</a> type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_AuthenticationFailure">AuthenticationFailure</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_DecryptionError">DecryptionError</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_MaxMessageSize">MaxMessageSize</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_NextDiscovery">NextDiscovery</a></td><td> **Obsolete. **</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_NextMessageId">NextMessageId</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_NextRequestId">NextRequestId</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_NotInTimeWindow">NotInTimeWindow</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_UnknownEngineId">UnknownEngineId</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_UnknownSecurityName">UnknownSecurityName</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_UnsupportedSecurityLevel">UnsupportedSecurityLevel</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")![Static member](media/static.gif "Static member")</td><td><a href="P_Lextm_SharpSnmpLib_Messaging_Messenger_UseFullRange">UseFullRange</a></td><td /></tr></table>&nbsp;
+<a href="#messenger-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Lextm_SharpSnmpLib_Messaging_Messenger">Messenger Class</a><br /><a href="N_Lextm_SharpSnmpLib_Messaging">Lextm.SharpSnmpLib.Messaging Namespace</a><br />
